@@ -164,17 +164,17 @@ export const projects = [
     id: 1,
     img: Project1,
     category: 'Frontend',
-    title: 'Zorro',
+    title: 'radoslav.site',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.',
+      'Portfolio website coded in vite, React.js, and TailwindCSS.',
   },
   {
     id: 2,
     img: Project2,
     category: 'Backend',
-    title: 'Gooir',
+    title: 'gdnsolution.com',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.',
+      'Gdn Solutions was coded in PHP, Laravel, and MySQL had much fun coding this!',
   },
   {
     id: 3,
@@ -187,8 +187,8 @@ export const projects = [
   {
     id: 4,
     img: Project4,
-    category: 'Dapp',
-    title: 'Mozar',
+    category: 'Frontend',
+    title: 'tayaliving.com',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.',
   },
@@ -196,17 +196,17 @@ export const projects = [
     id: 5,
     img: Project5,
     category: 'Blockchain',
-    title: 'Stay Fit',
+    title: '',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.',
+      '',
   },
   {
     id: 6,
     img: Project6,
     category: 'Frontend',
-    title: 'Kana',
+    title: 'buatiprice.com',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.',
+      'buatiprice.com was coded in php, mysql and Laravel.',
   },
 
 ];

@@ -4,7 +4,8 @@ import shapeOne from '../../assets/shape-1.png'
 import shapeTwo from '../../assets/shape-2.png'
 import { FaLinkedin , FaTelegram, FaGithub, FaDiscord, FaSkype, FaMedium, FaMailchimp } from "react-icons/fa";
 import './home.css'
-import CV from '../../assets/cv.pdf'
+import CV from '../../assets/rado.pdf'
+import fiverr from '../../assets/fiverr.png'
 
 const Home = () => {
   return (
@@ -16,7 +17,7 @@ const Home = () => {
             </p>
             <h1 className="home__title text-cs"><span>Radoslav</span></h1>
             <p className="home__job">
-                <span className="text-cs">I Am </span><b>Junior Frontend & Blockchain Engineer</b>
+                <span className="text-cs">I Am </span><b>FullStack & Blockchain Engineer</b>
             </p>
 
             <div className="home__img-wrapper">
@@ -38,7 +39,7 @@ const Home = () => {
                 <img src={shapeTwo} className="img shape shape__2"/>
                 <img src={shapeTwo} className="img shape shape__3"/>
             </div>
-            <p className="home__text">I have been working as a frontend and blockchain engineer for over 3 years. Built several small-to-large websites and wrote smart contracts, and integrated by using web3 technology.</p>
+            <p className="home__text">I have been working as a FullStack and blockchain engineer for over 3 years. Built several small-to-large websites and wrote smart contracts, and integrated by using web3 technology.</p>
             <div className="home__socials">
 
                 <a href="https://www.linkedin.com/in/radoslavatanasovde/" target='_blank' className="footer__social-links">
@@ -47,7 +48,12 @@ const Home = () => {
                 <a href="https://github.com/radoslavatanasov1" target='_blank' className="footer__social-links">
                     <FaGithub/>
                 </a>
-                <a href="mailto:radoslavatanasovoffical1@gmail.com" target='_blank' className="footer__social-links">
+                <a href="https://www.linkedin.com/in/radoslavatanasovde/" target='_blank' className="footer__social-links">
+                    <FaLinkedin/>
+                </a>
+
+
+                <a href="mailto:radoslav@walls.agency" target='_blank' className="footer__social-links">
                     <FaMailchimp/>
                 </a>
             </div>
