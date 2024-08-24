@@ -84,27 +84,17 @@ const Header = () => {
                     </ul> 
 
                     <div className="header__socials">
-                        <a href="https://t.me/thomson0313" target='_blank' className="footer__social-links">
-                            <FaTelegram/>
-                        </a>
-                        <a href="https://www.linkedin.com/in/thomson19960313" target='_blank' className="footer__social-links">
+
+                        <a href="https://www.linkedin.com/in/radoslavatanasovde/" target='_blank' className="footer__social-links">
                             <FaLinkedin/>
                         </a>
-                        <a href="https://github.com/thomson0313" target='_blank' className="footer__social-links">
+                        <a href="https://github.com/radoslavatanasov1" target='_blank' className="footer__social-links">
                             <FaGithub/>
                         </a>
-                        <a href="mailto:thomson19960313@gmail.com" target='_blank' className="footer__social-links">
+                        <a href="mailto:radoslav@walls.agency" target='_blank' className="footer__social-links">
                             <FaMailchimp/>
                         </a>
-                        <a href="https://discord.gg/yGrKf8kB84" target='_blank' className="footer__social-links">
-                            <FaDiscord/>
-                        </a>
-                        <a href="https://join.skype.com/invite/cWZDLNNAabo2" target='_blank' className="footer__social-links">
-                            <FaSkype/>
-                        </a>
-                        <a href="https://thomanson.medium.com" target='_blank' className="footer__social-links">
-                            <FaMedium/>
-                        </a>
+
                     </div>
                 </div>
 

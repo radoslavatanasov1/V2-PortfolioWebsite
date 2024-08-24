@@ -48,10 +48,6 @@ const Home = () => {
                 <a href="https://github.com/radoslavatanasov1" target='_blank' className="footer__social-links">
                     <FaGithub/>
                 </a>
-                <a href="https://www.linkedin.com/in/radoslavatanasovde/" target='_blank' className="footer__social-links">
-                    <FaLinkedin/>
-                </a>
-
 
                 <a href="mailto:radoslav@walls.agency" target='_blank' className="footer__social-links">
                     <FaMailchimp/>
